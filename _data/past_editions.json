@@ -1,0 +1,16 @@
+[
+  {
+    "year": "2021",
+    "location":"Amsterdam, the Netherlands",
+    "colocation": "RecSys 2021",
+    "conference_url": "https://recsys.acm.org/recsys21/",
+    "url": "http://sisinflab.poliba.it/kars/2021/"
+  },
+  {
+    "year": "2019",
+    "location":"Beijin, CH",
+    "colocation": "CIKM 2019",
+    "conference_url": "http://www.cikm2019.net/",
+    "url": "http://sisinflab.poliba.it/kars/2019/"
+  }
+]

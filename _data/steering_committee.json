@@ -1,0 +1,37 @@
+[
+{
+"name": "Vito Walter Anelli",
+"image": "images/team/anelli.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/anelli"
+},
+{
+"name": "Tommaso Di Noia",
+"image": "images/team/dinoia.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/dinoia"
+},
+{
+"name": "Pasquale Lops",
+"image": "http://www.di.uniba.it/~swap/uploads/Main/lops.jpg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.Lops"
+},
+{
+"name": "Cataldo Musto",
+"image": "http://www.di.uniba.it/~swap/musto/foto2.jpg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto"
+},
+{
+"name": "Markus Zanker",
+"image": "https://webservices.scientificnet.org/rest/uisdata/api/v1/people/3466/image?w=260&h=260",
+"institutionurl": "https://www.unibz.it/",
+"institution": "Free University of Bozen-Bolzano",
+"personalpage": "https://www.unibz.it/en/faculties/computer-science/academic-staff/person/3466-markus-zanker"
+}
+]
